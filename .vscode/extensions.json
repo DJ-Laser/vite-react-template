@@ -5,6 +5,7 @@
     "mkhl.direnv",
     "dbaeumer.vscode-eslint",
     "bbenoist.nix",
-    "bradlc.vscode-tailwindcss"
+    "bradlc.vscode-tailwindcss",
+    "esbenp.prettier-vscode"
   ]
 }
