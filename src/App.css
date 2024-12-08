@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.logo {
+  transition: filter 300ms;
+}
